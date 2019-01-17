@@ -1,0 +1,3 @@
+/home/luohao/aruco/gen_aruco/build/CMakeFiles/edit_cache.dir
+/home/luohao/aruco/gen_aruco/build/CMakeFiles/rebuild_cache.dir
+/home/luohao/aruco/gen_aruco/build/CMakeFiles/gen_aruco.dir

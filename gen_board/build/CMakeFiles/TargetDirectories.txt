@@ -1,0 +1,3 @@
+/home/luohao/aruco/gen_board/build/CMakeFiles/edit_cache.dir
+/home/luohao/aruco/gen_board/build/CMakeFiles/rebuild_cache.dir
+/home/luohao/aruco/gen_board/build/CMakeFiles/create_board.dir
